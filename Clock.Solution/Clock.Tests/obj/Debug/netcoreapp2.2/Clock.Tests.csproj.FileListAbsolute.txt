@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp2.2/Clock.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp2.2/Clock.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp2.2/Clock.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp2.2/Clock.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Clock.Tests.deps.json
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Clock.Tests.runtimeconfig.json
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Clock.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Clock.Tests.dll
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Clock.Tests.pdb
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Clock.dll
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp2.2/Clock.pdb
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp2.2/Clock.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp2.2/Clock.Tests.dll
+/Users/Guest/Desktop/clock-angle/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp2.2/Clock.Tests.pdb
