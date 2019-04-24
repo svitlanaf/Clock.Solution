@@ -70,6 +70,8 @@ namespace Clock
 
     public float CalculateAngle()
     {
+      Console.WriteLine(MinutesPosition.ToString());
+      Console.WriteLine(HoursPosition.ToString());
       float difference = Math.Abs(MinutesPosition - HoursPosition);
       float degrees = difference * 6;
       if (360 - degrees < degrees)
